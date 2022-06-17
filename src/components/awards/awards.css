@@ -1,0 +1,13 @@
+.awards-items{
+    display: flex;
+    justify-content: center;
+}
+
+.award-item img{
+    width: 150px;
+    height: 150px;
+    margin: 40px;
+}
+.award-item h5{
+    width: 200px;
+}

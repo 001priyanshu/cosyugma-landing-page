@@ -1,0 +1,14 @@
+.imageabout-container{
+    background: url(https://www.shreecement.com/uploads/about-us-page/aboutus-banner-lead.jpg);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    
+    align-items: center;
+  color: white;
+}
+.imageabout-items{
+    height: auto;
+    width: 400px;
+    margin-left: 100px;
+}
