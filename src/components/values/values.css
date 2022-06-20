@@ -16,3 +16,12 @@
 .values-items{
     margin-top: 40px;
 }
+
+@media(max-width:600px){
+    .heading-items{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}

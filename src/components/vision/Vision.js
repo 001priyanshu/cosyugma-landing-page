@@ -1,5 +1,5 @@
 import React from 'react'
-
+import './vision.css'
 export default function Vision() {
     return (
 
@@ -11,7 +11,7 @@ export default function Vision() {
 
                 </div>
             </div>
-            <div className='container'>
+            <div className='container vision-container'>
                 <div className='row' style={{ color: "white" }}>
                     <div className='offset-xl-2 offset-lg-2 offset-m-0 offset-xs-0 col-xl-8 col-lg-8 col-md-12 col-sm-12 col-xs-12 text-centre center-title-white'>
 
